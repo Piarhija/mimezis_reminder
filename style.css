@@ -1,0 +1,145 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Roboto', sans-serif;
+     font-size: 14px;
+     font-weight: 300;
+}
+ ::selection{
+     color: white;
+     background: rgb(0, 0, 0);
+}
+ body{
+     width: 100%;
+     height: 100vh;
+     padding: 10px;
+     background-color: pink;
+}
+ .wrapper{
+     background-color: white;
+     max-width: 400px;
+     width: 100%;
+     margin: 120px auto;
+     padding: 25px;
+}
+ .wrapper p{
+     margin-left: 10px;
+}
+ .wrapper .inputField{
+     padding-left: 10px;
+     margin-top: 20px ;
+     margin-bottom: 8px;
+     width: 100%;
+     display: flex;
+     height: 45px;
+}
+ .inputField input{
+     width: 85%;
+     height: 100%;
+     border-color: pink;
+     border-style: solid;
+     border-radius: 0px;
+     border-width: 1px;
+     padding-left: 15px;
+}
+ .inputField button{
+     width: 45px;
+     height: 100%;
+     border: 22px;
+     border-style:solid;
+     color: pink;
+     margin-left: 7px;
+     float: right;
+     cursor: pointer;
+     pointer-events: none;
+}
+ .inputField button:hover, .footer button:hover{
+     background: black;
+}
+ .inputField button.active{
+     pointer-events: auto;
+}
+ .wrapper .todoList{
+     max-height: 850px;
+     overflow-y: auto;
+}
+ .todoList li{
+     position: relative;
+     list-style: none;
+     margin-bottom: 8px;
+     background: white;
+     padding: 10px 15px;
+     cursor: default;
+     overflow: hidden;
+     word-wrap: break-word;
+}
+ .todoList li .icon{
+     position: absolute;
+     right: 0px;
+     top: 50%;
+     transform: translateY(-50%);
+     background-color: pink;
+     width: 45px;
+     text-align: center;
+     color: black;
+     padding: 10px 15px;
+     cursor: pointer;
+}
+ .todoList li:hover .icon{
+     right: 0px;
+}
+ .wrapper .footer{
+     display: flex;
+     width: 100%;
+     margin-top: 20px;
+     align-items: center;
+     justify-content: space-between;
+}
+ .footer span{
+     margin-left: 7px 
+}
+ .row{
+     display: flex;
+}
+ .mimezisi {
+     display: flex;
+     padding-left: 5px;
+     width: 100%;
+     height: 90px;
+}
+ .mimezisi img{
+     width: 344px;
+}
+ .zoloft {
+     width: 100px;
+     background-color: floralwhite;
+}
+ .datumpadding{
+     padding-top: 14px;
+     display: none;
+}
+ .mimezisiclick{
+     display: flex;
+     width: 344px;
+     position: absolute;
+}
+ .mimezisiclick img{
+     width: 86px!important;
+     height: 90px;
+     background-color: black;
+     opacity: 0;
+}
+ @media(max-width: 700px){
+     .wrapper{
+         max-width: 100%;
+    }
+     .mimezisi img{
+         width: 90%;
+    }
+}
+ input[type=text], input[type=button] {
+     -webkit-appearance: none;
+     -webkit-border-radius: 0;
+}
+ 

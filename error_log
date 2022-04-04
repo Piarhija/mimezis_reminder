@@ -1,0 +1,33 @@
+[24-Feb-2022 17:58:00 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 39
+[24-Feb-2022 17:58:02 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 39
+[24-Feb-2022 18:26:58 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 47
+[24-Feb-2022 18:26:59 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 47
+[24-Feb-2022 18:27:36 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:37 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:38 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:38 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:39 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:39 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[24-Feb-2022 18:27:44 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 77
+[26-Feb-2022 16:45:38 Europe/Ljubljana] PHP Warning:  file_get_contents(task2.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index2.php on line 2
+[26-Feb-2022 16:45:43 Europe/Ljubljana] PHP Warning:  file_get_contents(task2.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 5
+[26-Feb-2022 16:45:43 Europe/Ljubljana] PHP Warning:  file_get_contents(task2.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 67
+[05-Mar-2022 22:38:08 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 137
+[05-Mar-2022 22:38:14 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 137
+[05-Mar-2022 22:55:27 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 110
+[05-Mar-2022 22:55:29 Europe/Ljubljana] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/jarkasi/piaarhija.jarka.si/stuff/index.php on line 110
+[05-Mar-2022 23:06:46 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 137
+[05-Mar-2022 23:23:41 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action2.php on line 137
+[05-Mar-2022 23:27:22 Europe/Ljubljana] PHP Warning:  file_get_contents(task3.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index3.php on line 2
+[05-Mar-2022 23:27:25 Europe/Ljubljana] PHP Warning:  file_get_contents(task3.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action3.php on line 5
+[05-Mar-2022 23:27:25 Europe/Ljubljana] PHP Warning:  file_get_contents(task3.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action3.php on line 67
+[05-Mar-2022 23:29:25 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index4.php on line 2
+[05-Mar-2022 23:29:28 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action4.php on line 5
+[05-Mar-2022 23:29:50 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index4.php on line 2
+[05-Mar-2022 23:29:55 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action4.php on line 5
+[05-Mar-2022 23:30:12 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index4.php on line 2
+[05-Mar-2022 23:31:07 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/index4.php on line 2
+[05-Mar-2022 23:31:11 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action4.php on line 5
+[05-Mar-2022 23:31:11 Europe/Ljubljana] PHP Warning:  file_get_contents(task4.json): Failed to open stream: No such file or directory in /home/jarkasi/piaarhija.jarka.si/stuff/action4.php on line 67
+[04-Apr-2022 19:14:58 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action.php on line 137
+[04-Apr-2022 19:15:09 Europe/Ljubljana] PHP Warning:  Undefined variable $found in /home/jarkasi/piaarhija.jarka.si/stuff/action.php on line 137
